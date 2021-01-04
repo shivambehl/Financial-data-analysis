@@ -8,7 +8,7 @@ The work is divided into 6 modules. They are:
 2. [Data Visualization](2.%20Data%20Visualisation.ipynb)
 3. [Beta Calculation](3.%20Beta%20Calculation.ipynb)
 4. [Algo Trading using Classification](4.%20Algo%20Trading%20using%20Classification.ipynb)
-5. [Modern Portfolio Theory](5. Modern Portfolio Theory.ipynb)
+5. [Modern Portfolio Theory](5.%20Modern%20Portfolio%20Theory.ipynb)
 6. [Clustering for Portfolio Diversification and Analysis](6.%20Clustering%20for%20Diverse%20portfolio%20analysis.ipynb)
 
 Key Learnings :nerd_face: :
